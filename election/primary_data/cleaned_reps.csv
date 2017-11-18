@@ -1,0 +1,57 @@
+Date,State,State delegation (only voting delegates)-RNC,State delegation (only voting delegates)-AL,State delegation (only voting delegates)-CD,State delegation (only voting delegates)-Total,State delegation (only voting delegates)-U,State delegation (only voting delegates)-B,Allocation-Contest,Allocation-AL,Allocation-CD,Election (CD)-Date,Election (CD)-Type,Election (AL)-Date,Election (AL)-Type,Threshold
+02/01/16,Iowa,3,15,12,30,0,30[k],Caucus (closed),Proportional,Proportional [l],04/09/16,Convention,05/21/16,Convention,N/A
+02/09/16,New Hampshire,3,20,0,23,3[m],18,Primary (semi-closed),Proportional,N/A,N/A,N/A,02/09/16,Slate,10.00%
+02/20/16,South Carolina,3,26,21,50,0,50,Primary (open),Winner-take-all,Winner-take-all,April,Convention,05/07/16,Convention,N/A
+02/23/16,Nevada,3,27,0,30,2[m],28,Caucus (closed),Proportional,N/A,N/A,N/A,05/07/16,Convention,3.33%[n]
+03/01/16,Alabama,3,26,21,50,0,50,Primary (open),Winner-take-most,Winner-take-most,03/01/16,Slate,03/01/16,Slate,20.00%
+03/01/16,Alaska,3,25,0,28,0,28,Caucus (closed),Proportional,N/A,N/A,N/A,04/28/16,Convention,13.00%
+03/01/16,Arkansas,3,25,12,40,9[m],31,Primary (open),Winner-take-most,Winner-take-most,04/30/16,Convention,05/14/16,Committee,15.00%
+03/01/16,Colorado,3[b],13,21,37,7,30,Caucus (closed),(No allocation),(No allocation),04/08/16,Convention [o],04/09/16,Convention [o],N/A
+03/01/16,Georgia,3,31,42,76,0,76,Primary (open),Winner-take-most,Winner-take-most,04/16/16,Convention,06/03/16,Convention,20.00%
+03/01/16,Massachusetts,3,12,27,42,0,42,Primary (semi-closed),Proportional,Proportional [l],04/23/16,Convention,06/03/16,Committee,5.00%
+03/01/16,Minnesota,3,11,24,38,17[m],21,Caucus (open),Proportional,Proportional,05/07/16,Convention,05/21/16,Convention,10.00%
+03/01/16,North Dakota,3[b],25,0,28,28,0,Caucus (closed),(No allocation),N/A,N/A,N/A,04/03/16,Convention,N/A
+03/01/16,Oklahoma,3,25,15,43,3,40,Primary (closed),Winner-take-most,Winner-take-most,04/16/16,Convention,05/14/16,Convention,15.00%
+03/01/16,Tennessee,3,28,27,58,0,58,Primary (open),Winner-take-most,Winner-take-most,03/01/16,Direct Elec.,04/02/16,Direct Elec.[p],20.00%
+03/01/16,Texas,3,44,108,155,0,155,Primary (open),Winner-take-most,Winner-take-most,05/14/16,Convention,05/14/16,Convention,20.00%
+03/01/16,Vermont,3,13,0,16,0,16,Primary (open),Winner-take-most,N/A,N/A,N/A,05/21/16,Convention,20.00%
+03/01/16,Virginia,3,13,33,49,0,49,Primary (open),Proportional,Proportional [l],05/21/16,Convention,04/30/16,Convention,N/A
+03/01/16,Wyoming,3[b],14,12,29,5[m],24,Caucus (closed),(No allocation),(No allocation),03/12/16,Convention [o][q],04/16/16,Convention [o],N/A
+03/05/16,Kansas,3,25,12,40,0,40,Caucus (closed),Proportional,Proportional,04/23/16,Convention,05/21/16,Committee,10.00%
+03/05/16,Kentucky,3,25,18,46,0,46,Caucus (closed),Proportional,Proportional [l],05/17/16,Convention,05/18/16,Convention,5.00%
+03/05/16,Louisiana,3,25,18,46,5,41,Primary (closed),Proportional,Proportional,03/12/16,Convention,03/12/16,Convention,20.00%
+03/05/16,Maine,3,14,6,23,0,23,Caucus (closed),Winner-take-most,Winner-take-most [l],04/22/16,Convention,04/22/16,Convention,10.00%
+03/06/16,Puerto Rico,3,20,0,23,0,23,Primary (open),Winner-take-most,N/A,N/A,N/A,03/06/16,Direct Elec.,20.00%
+03/08/16,Hawaii,3,10,6,19,0,19,Caucus (closed),Proportional,Proportional,03/08/16,Slate,03/08/16,Slate,N/A
+03/08/16,Idaho,3,29,0,32,0,32,Primary (closed),Winner-take-most,N/A,N/A,N/A,06/04/16,Convention,20.00%
+03/08/16,Michigan,3,14,42,59,0,59,Primary (open),Winner-take-most,N/A,04/08/16,Convention,04/09/16,Convention,15.00%
+03/08/16,Mississippi,3,25,12,40,0,40,Primary (open),Proportional,Winner-take-most,05/14/16,Convention,05/14/16,Convention,15.00%
+03/10/16,U.S. Virgin Islands[r],3[b],6,0,9,5,4,Caucus (closed),Direct Elec.[o],N/A,N/A,N/A,03/10/16,Convention,N/A
+03/12/16,District of Columbia,3,16,0,19,0,19,Convention (closed),Winner-take-most,N/A,N/A,N/A,03/12/16,Convention,15.00%
+03/12/16,Guam,3[b],6,0,9,9,0,Caucus (closed),(No allocation),N/A,N/A,N/A,03/12/16,Convention,N/A
+03/15/16,Florida,0,18,81,99,0,99,Primary (closed),Winner-take-all,Winner-take-all[l],06/03/16,Convention,06/03/16,Committee,N/A
+03/15/16,Illinois,3,12,54,69,0,69,Primary (open),Winner-take-all,Direct Elec.[o],03/15/16,Direct Elec.,05/22/16,Convention,N/A
+03/15/16,Missouri,3,25[s],24,52,0,52,Primary (open),Winner-take-all,Proportional,04/30/16,Convention,06/02/16,Convention,N/A
+03/15/16,Northern Mariana Is.,3,6,0,9,0,9,Caucus (closed),Winner-take-all,N/A,N/A,N/A,03/15/16,Direct Elect.,N/A
+03/15/16,North Carolina,3,69,0,72,0,72,Primary (semi-closed),Proportional,Proportional [l],04/27/16,Convention,05/08/16,Convention,N/A
+03/15/16,Ohio,3,63,0,66,0,66,Primary (semi-closed),Winner-take-all,N/A,N/A,N/A,03/15/16,Slate,N/A
+03/22/16,American Samoa,3[b],6,0,9,9,0,Caucus (open),(No allocation),N/A,N/A,N/A,03/22/16,Convention,N/A
+03/22/16,Arizona,3,28,27,58,0,58,Primary (closed),Winner-take-all,Winner-take-all[l],04/30/16,Convention,04/30/16,Convention,N/A
+03/22/16,Utah,3,37,0,40,0,40,Caucus (semi-closed),Winner-take-most,N/A,N/A,N/A,04/23/16,Convention,15%[t]
+04/05/16,Wisconsin,3,15,24,42,0,42,Primary (open),Winner-take-all,Winner-take-all,04/17/16,Convention,05/14/16,Slate,N/A
+04/19/16,New York,3,11,81,95,0,95,Primary (closed),Winner-take-most,Winner-take-most,04/19/16,Slate,05/26/16,Committee,20%[u]
+04/26/16,Connecticut,3,10,15,28,0,28,Primary (closed),Winner-take-most,Winner-take-all,05/20/16,Slate,05/20/16,Slate,20.00%
+04/26/16,Delaware,3,13,0,16,0,16,Primary (closed),Winner-take-all,N/A,N/A,N/A,04/29/16,Convention,N/A
+04/26/16,Maryland,3,11,24,38,0,38,Primary (closed),Winner-take-all,Winner-take-all,04/26/16,Direct Elec.,05/14/16,Convention,N/A
+04/26/16,Pennsylvania,3,14,54,71,54,17,Primary (closed),Winner-take-all,(No allocation),04/26/16,Direct Elec.,05/21/16,Committee,N/A
+04/26/16,Rhode Island,3,10,6,19,0,19,Primary (semi-closed),Proportional,Proportional,04/26/16,Direct Elec.,04/26/16,Direct Elec.,10.00%
+05/03/16,Indiana,3,27,27,57,0,57,Primary (open),Winner-take-all,Winner-take-all,04/09/16,Slate,04/13/16,Slate,N/A
+05/10/16,Nebraska,3,24,9,36,0,36,Primary (semi-closed),Winner-take-all,Winner-take-all[l],05/14/16,Convention,05/14/16,Convention,N/A
+05/10/16,West Virginia,3,22,9,34,0,34,Primary (semi-closed),Direct Elec.[o],Direct Elec.[o],05/10/16,Direct Elec.,05/10/16,Direct Elec.,N/A
+05/17/16,Oregon,3,10,15,28,0,28,Primary (closed),Proportional,Proportional,06/04/16,Convention,06/04/16,Convention,3.57%[v]
+05/24/16,Washington,3,11,30,44,0,44,Primary (closed),Proportional,Winner-take-most,05/24/16,Slate,05/24/16,Slate,20.00%
+06/07/16,California,3,10,159,172,0,172,Primary (closed),Winner-take-all,Winner-take-all,06/07/16,Slate,06/07/16,Slate,N/A
+06/07/16,Montana,3,24,0,27,0,27,Primary (closed),Winner-take-all,N/A,N/A,N/A,05/14/16,Slate,N/A
+06/07/16,New Jersey,3,48,0,51,0,51,Primary (semi-closed),Winner-take-all,N/A,N/A,N/A,06/05/16,Slate,N/A
+06/07/16,New Mexico,3,12,9,24,0,24,Primary (closed),Proportional,Proportional[l],05/21/16,Convention,05/21/16,Convention,15.00%
+06/07/16,South Dakota,3,26,0,29,0,29,Primary (closed),Winner-take-all,N/A,N/A,N/A,03/19/16,Convention,N/A
