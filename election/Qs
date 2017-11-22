@@ -1,0 +1,20 @@
+Questions:
+
+Classification - SGD Classifier:
+	What are the parameters in each model? 
+
+	How do you find the optimal set of parameters?
+
+Regression - ENet and GP Regression:
+	What are the parameters in each model? 
+
+	How do you find the optimal set of parameters?
+
+Evaluation of Your Models:
+	Which models perform best? 
+
+	Can you explain why? 
+
+	Are any of the models producing more variance? 
+
+	Are any of them producing higher bias? Explain.
