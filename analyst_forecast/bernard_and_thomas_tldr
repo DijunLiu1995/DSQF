@@ -1,0 +1,48 @@
+
+
+
+1. Introduction
+	1a. Long(short) top(bottom) 10% of unexpected decile stocks, 60 days after earnnings, return 25% annualized before t-cost
+
+	FOS - prior paper on PEAD
+
+2. PEAD - Nature of phenomenon
+	2a. earnings / (std prior forecast error), compared to XS dist of scaled unexpected returns.
+	2b. 120 day timeseries plot +-60 based around 0 earnings
+
+2.1 The case for CAPM
+	2.1a Beta shift up(down) for good(bad) earnings surprise
+		2.1a1 Does beta * mkt explain?
+
+2.2 The case for delayed response
+	
+
+3.1 Sample selection
+	NYSE AMEX 1974-1986
+	NASDAQ 1975-1985
+3.2 Estimation Procedure
+	Banz-Reinganum size effect (?) controls
+	AR_j_t = R_j_t - R_p_t
+
+	AR_j_t = abnormal returns for firm j @ t
+	 R_j_t =            "      "   "   " " "
+	 R_p_t = Equal weigthed mkt cap decile returns on respective exchange	
+
+	Paper sums returns rather than cum growth.
+
+3.2.2 They use "Foster model" (?)	
+	- SUE - standardized unexpected earnings
+	- seems like some box-jenkins-y AR1 thing. need to poke around.
+		- see if teammates know.
+
+3.2.3 Portfolio assignment without lookahead - good.
+
+3.2.4 Equal dollar long and short of portfolios that report good and bad news.
+	- Good or bad is against prior quarter earnings distribution
+	- Portfolio then compounded 60 days.
+	- Positions are not taken until there is a long and short position to offset (weird methodology)
+		- Stocks are broken up into small/medium/large
+
+4.1 Most drift occurs within 5 days of earnings.	
+
+... Other stuff based on results. Can get there when we have results.
